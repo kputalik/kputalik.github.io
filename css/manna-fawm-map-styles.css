@@ -1,0 +1,91 @@
+.fawm-map-wrapper {
+  max-width: 750px;
+  width: 100%;
+  position: relative;
+  padding: 20px;
+	margin: 0 auto;
+}
+
+.fawm-map-feature {
+  position: absolute;
+  bottom: 10%;
+  left: 5%;
+  max-width: 40%;
+  min-width: 250px;
+  width: 100%;
+  border: 1.5px solid #F31F24;
+  background-color: #fffbec;
+  box-shadow: 2px 2px 10px 2px rgba(55, 55, 55, 0.30);
+  color: #333;
+	font-size: 15px;
+}
+
+.fawm-map-feature__header {
+  background-color: #F31F24;
+  font-weight: 600;
+  text-align: center;
+  padding: 5px 10px;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.fawm-map-feature__body {
+  padding: 5px;
+}
+
+.fawm-map-feature__row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 5px;
+}
+
+.fawm-map-feature__label {
+  -ms-flex-preferred-size: 70%;
+      flex-basis: 70%;
+  font-weight: bold;
+  text-align: right;
+}
+
+.fawm-map-feature__value {
+  text-align: right;
+  flex-basis: 30%;
+}
+
+.fawm-map-text {
+  font-size: 6.5px;
+  font-weight: bold;
+}
+
+.fawm-map-county--active {
+  cursor: pointer;
+}
+
+.fawm-map-county-path {
+  fill: #e9e4d0;
+  transition: fill 300ms ease;
+  pointer-events: none;
+}
+
+.fawm-map-county.fawm-map-county--active .fawm-map-county-path {
+  fill: #98BB78;
+  pointer-events: all;
+}
+ 
+.fawm-map-county.fawm-map-county--active:hover .fawm-map-county-path {
+  fill: #F31F24;
+  cursor: pointer;
+}
+
+@media (max-width: 550px) {
+	.fawm-map-wrapper {
+		padding: 5px;
+	}
+	.fawm-map-feature {
+	  position: initial;
+		max-width: 100%;
+		min-width: 100%;
+		margin-bottom: 20px;
+	}
+
+}

@@ -1,0 +1,35 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3672121, 2018-11-13T11:15:56-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: NaturalScriptBold by Typadelic
+ * URL: https://www.myfonts.com/fonts/typadelic/natural-script/bold/
+ * Copyright: Copyright (c) TYPADELIC FONTS, 2004. All rights reserved.
+ * 
+ * Webfont: NaturalScript by Typadelic
+ * URL: https://www.myfonts.com/fonts/typadelic/natural-script/regular/
+ * Copyright: Copyright (c) TYPADELIC FONTS, 2003. All rights reserved.
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3672121
+ * Licensed pageviews: 10,000
+ * 
+ * © 2018 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/380839");
+
+  
+@font-face {font-family: 'NaturalScriptBold';src: url('webfonts/380839_0_0.eot');src: url('webfonts/380839_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/380839_0_0.woff2') format('woff2'),url('webfonts/380839_0_0.woff') format('woff'),url('webfonts/380839_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'NaturalScript';src: url('webfonts/380839_1_0.eot');src: url('webfonts/380839_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/380839_1_0.woff2') format('woff2'),url('webfonts/380839_1_0.woff') format('woff'),url('webfonts/380839_1_0.ttf') format('truetype');}
+ 

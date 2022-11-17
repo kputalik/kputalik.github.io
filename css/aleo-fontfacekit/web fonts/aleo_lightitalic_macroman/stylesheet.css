@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'aleolightitalic';
+    src: url('../../../../aleo-fontfacekit/web fonts/aleo_lightitalic_macroman/Aleo-LightItalic-webfont.eot');
+    src: url('../../../../aleo-fontfacekit/web fonts/aleo_lightitalic_macroman/Aleo-LightItalic-webfont.eot?#iefix') format('embedded-opentype'),
+url('../../../../aleo-fontfacekit/web fonts/aleo_lightitalic_macroman/Aleo-LightItalic-webfont.woff2') format('woff2'),
+url('Aleo-LightItalic-webfont.woff') format('woff'),
+url('../../../../aleo-fontfacekit/web fonts/aleo_lightitalic_macroman/Aleo-LightItalic-webfont.ttf') format('truetype'),
+url('../../../../aleo-fontfacekit/web fonts/aleo_lightitalic_macroman/Aleo-LightItalic-webfont.svg#aleolightitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

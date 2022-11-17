@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'aleobolditalic';
+    src: url('../../../../aleo-fontfacekit/web fonts/aleo_bolditalic_macroman/Aleo-BoldItalic-webfont.eot');
+    src: url('../../../../aleo-fontfacekit/web fonts/aleo_bolditalic_macroman/Aleo-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+url('../../../../aleo-fontfacekit/web fonts/aleo_bolditalic_macroman/Aleo-BoldItalic-webfont.woff2') format('woff2'),
+url('Aleo-BoldItalic-webfont.woff') format('woff'),
+url('../../../../aleo-fontfacekit/web fonts/aleo_bolditalic_macroman/Aleo-BoldItalic-webfont.ttf') format('truetype'),
+url('../../../../aleo-fontfacekit/web fonts/aleo_bolditalic_macroman/Aleo-BoldItalic-webfont.svg#aleobolditalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
