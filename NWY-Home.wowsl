@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.8</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>false</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>35</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>Manna-Home</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>fade</ImageEffect>
+            <ImageFillColor></ImageFillColor>
+            <ImageHeight>1080</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>/Applications/WOWSlider.app/Contents/Resources/templates/backgnd/transparent/</ImageTemplate>
+            <ImageTemplateName>Transparent</ImageTemplateName>
+            <ImageWidth>1920</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>/Users/martaolson/Documents/home-wowslider.html</PublishFileName>
+            <PublishIndex>home-wowslider.html</PublishIndex>
+            <PublishPath>/Users/martaolson/Documents</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>2</SizeStyle>
+            <SlideshowDelay>39</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#fffbec</TemplateColor>
+            <TemplateFont>Anton</TemplateFont>
+            <TemplateName>transparent</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <WatermarkAlign>66</WatermarkAlign>
+            <WatermarkBgColor>#ffffff</WatermarkBgColor>
+            <WatermarkColor>#514242</WatermarkColor>
+            <WatermarkHaveBgColor>true</WatermarkHaveBgColor>
+            <WatermarkOpacity>60</WatermarkOpacity>
+            <WatermarkX>14</WatermarkX>
+            <WatermarkY>14</WatermarkY>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>/Users/martaolson/Documents/Marta's Web Work/Manna/2018 Website/Home-Slideshow/Website header 2x.jpg</url>
+                <title>Website header 2x</title>
+                <filesize>591783</filesize>
+            </Image>
+            <Image>
+                <url>/Users/martaolson/Documents/Marta's Web Work/Manna/2018 Website/Home-Slideshow/Website Header 6-x.jpg</url>
+                <title>Website Header 6-x</title>
+                <filesize>808020</filesize>
+            </Image>
+            <Image>
+                <url>/Users/martaolson/Documents/Marta's Web Work/Manna/2018 Website/Home-Slideshow/Community2-x.jpg</url>
+                <title>Community2-x</title>
+                <filesize>878211</filesize>
+            </Image>
+            <Image>
+                <url>/Users/martaolson/Documents/Marta's Web Work/Manna/2018 Website/Home-Slideshow/Website Header 10-x.jpg</url>
+                <title>Website Header 10-x</title>
+                <filesize>1133373</filesize>
+            </Image>
+            <Image>
+                <url>/Users/martaolson/Documents/Marta's Web Work/Manna/2018 Website/Home-Slideshow/JST_0014-x.jpg</url>
+                <title>JST_0014-x</title>
+                <filesize>668850</filesize>
+            </Image>
+            <Image>
+                <url>/Users/martaolson/Documents/Marta's Web Work/Manna/2018 Website/Home-Slideshow/JST_0034-x.jpg</url>
+                <title>JST_0034-x</title>
+                <filesize>529729</filesize>
+            </Image>
+            <Image>
+                <url>/Users/martaolson/Documents/Marta's Web Work/Manna/2018 Website/Home-Slideshow/Pantry 2-x.jpg</url>
+                <title>Pantry 2-x</title>
+                <filesize>389616</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
